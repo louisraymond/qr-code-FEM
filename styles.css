@@ -1,0 +1,21 @@
+body {
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.main-card {
+    background-color: #FFFFFF;
+    width: 320px;
+    height: 497px;
+}
+
+.qr-code {
+    margin-top: 20px;
+    width: 288px;
+    height: 288px;
+    border-radius: 15px;
+}
